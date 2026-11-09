@@ -8,12 +8,28 @@ Focused on designing, building, and automating cloud infrastructure using Linux,
 ## Technical Skills
 
 **Infrastructure & Cloud**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-005571?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge)
+
 Terraform · AWS (EC2, VPC, IAM, S3, and related services) · Infrastructure as Code · Cloud Networking · Resource Provisioning
 
 **DevOps & Automation**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 Docker · Linux System Administration · Git & GitHub Workflows · CI/CD Pipelines · Bash Scripting · Configuration Management · Deployment Automation
 
 **Operations & Practices**  
+![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-FF6F00?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge)
+
 Server Configuration · Containerization · Version Control · Basic Monitoring & Troubleshooting · Documentation · Repeatable Infrastructure Patterns
 
 ## Professional Focus
@@ -44,5 +60,5 @@ Hands-on experience working with Linux environments, Docker containerization, Gi
 ## Contact
 
 Email: shehryarrasheed55@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sherry31/
+LinkedIn: https://www.linkedin.com/in/sherry31/  
 Open to DevOps and cloud infrastructure opportunities.
